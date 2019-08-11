@@ -6,9 +6,7 @@ A list of funds, foundations, government programs, non-gov./non-profits etc. tha
 
 Feel free to contribute via [Pull Requests](https://github.com/eugeneia/awesome-open-source-funding/pulls).
 
-**DISCLAIMER:** the information in this table could possibly, you know, be inaccurate, incomplete, etc.
-
-**Table key**
+**Table key:**
 
  - Entity: name of and link to the entity (a fund, foundation, government program, non-government/non-profit organization, ...
  - Type: classification of the entity (is it a fund, foundation, government program, ...?)
@@ -19,6 +17,8 @@ Feel free to contribute via [Pull Requests](https://github.com/eugeneia/awesome-
  - Extra provisions: do you get access to any additional resources through the program? If so, which?
  - Why awesome: why is this specific entity nice to work with?
  - B-level: how much bureaucracy is involved/required to receive the funding?
+ 
+ *DISCLAIMER:* the information in this table could possibly, you know, be inaccurate, incomplete, etc.
 
 | Entity  | Type | Specialization | Residency reqs. | Max. amount | Max. duration | Extra provisions | B-level | Why awesome? |
 | ------- | ---- | -------------- | --------------- | ----------- | ------------- | ---------------- | ------- | ------------ |
