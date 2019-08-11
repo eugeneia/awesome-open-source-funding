@@ -4,7 +4,7 @@
 
 A list of funds, foundations, government programs, non-gov./non-profits etc. that support open source projects through funding.
 
-Feel free to contribute via [Pull Requests](https://github.com/euegeneia/awesome-open-source-funding).
+Feel free to contribute via [Pull Requests](https://github.com/eugeneia/awesome-open-source-funding/pulls).
 
 **DISCLAIMER:** the information in this table could possibly, you know, be inaccurate, incomplete, etc.
 
